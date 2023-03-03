@@ -6,7 +6,8 @@ y = 4 * x ** 3 + 1.2 * x ** 2 + 12
 
 plt.figure(0)
 plt.plot(x, y)
-plt.title("Prueba entorno" )
+plt.title("PRUEBA CAMBIANDO" )
+plt.title("xd")
 plt.xlabel( "x" )
 plt.ylabel( "y" )
 plt.grid(True)
