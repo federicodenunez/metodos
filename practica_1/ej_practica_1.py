@@ -171,8 +171,8 @@ def matriz_x_matriz (matriz_A, matriz_B): # O(n^2) ups
     else: 
         return [[]]
 
-"""
+
 A = [[1, 2], [3, 4]]
 B = [[5, 6], [7, 8]]
 print(matriz_x_matriz(A,B))
-"""
+
